@@ -5,6 +5,7 @@
 """,
 
     'description': """
+    TEST MODULE
     """,
     'author': "nhatnm0612",
     'website': "",
