@@ -1,5 +1,5 @@
 {
-    'name': "test sale",
+    'name': "test sale template",
 
     'summary': """
 """,
@@ -10,7 +10,7 @@
     'website': "",
     'category': 'Odoo Apps',
     'version': '0.8',
-    'depends': ["to_test"],
+    'depends': ["to_test_sale"],
     'data': [
     ],
     'installable': True,
