@@ -13,7 +13,7 @@
     'depends': ["to_test_sale"],
     'data': [
     ],
-    'installable': True,
+    'installable': False,
     'application': True,
     'auto_install': False,
     'price': 4.9,
