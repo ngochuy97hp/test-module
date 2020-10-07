@@ -13,10 +13,7 @@
     'depends': [],
     'data': [
     ],
-    'images': ['pexels-artem-beliaikin-853199.jpg',
-               'pexels-hristo-fidanov-1252869.jpg',
-               'pexels-pixabay-531321.jpg',
-    ],
+    'images': ['pexels-pixabay-531321.jpg',],
     'installable': True,
     'application': True,
     'auto_install': False,
