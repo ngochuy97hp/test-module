@@ -5,6 +5,7 @@
 """,
 
     'description': """
+    TEST MODULE
     """,
     'author': "nhatnm0612",
     'website': "",
@@ -13,6 +14,7 @@
     'depends': [],
     'data': [
     ],
+    'images': ['main_screenshot.png'],
     'installable': True,
     'application': True,
     'auto_install': False,
