@@ -14,6 +14,7 @@
     'depends': [],
     'data': [
     ],
+    'images': ['main_screenshot.png'],
     'installable': True,
     'application': True,
     'auto_install': False,
