@@ -10,7 +10,7 @@
     'website': "",
     'category': 'Odoo Apps',
     'version': '0.8',
-    'depends': ["to_test"],
+    'depends': ["to_test",'sale'],
     'data': [
     ],
     'installable': True,

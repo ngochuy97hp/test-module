@@ -11,7 +11,7 @@
     'website': "",
     'category': 'Odoo Apps',
     'version': '0.8',
-    'depends': [],
+    'depends': ['base'],
     'data': [
     ],
     'images': ['main_screenshot.png'],
