@@ -9,6 +9,7 @@ class TestBookState(TransactionCase):
 
     def test_button_available(self):
         """Make available button"""
+        self.assertEqual(self.test_book.state, 'draft', 'Default state of newly created book should be `draft`')
         self.test_book.make_available()
         self.assertEqual(self.test_book.state, 'available', 'Book state should changed to available')
 
