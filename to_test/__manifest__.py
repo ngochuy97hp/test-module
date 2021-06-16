@@ -13,6 +13,7 @@
     'version': '0.8',
     'depends': ['base'],
     'data': [
+        'security/ir.model.access.csv',
     ],
     'images': ['main_screenshot.png'],
     'installable': True,
