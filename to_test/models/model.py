@@ -10,10 +10,10 @@ class LibraryBook(models.Model):
                             ('available', 'Available'),
                             ('lost', 'Lost')],
                             'State', default="draft", required=True)
-    color = fields.Integer()
 
     def make_available(self):
         self.write({'state': 'available'})
 
     def make_lost(self):
         self.write({'state': 'lost'})
+
