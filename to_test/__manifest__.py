@@ -19,7 +19,7 @@
     'installable': True,
     'application': True,
     'auto_install': False,
-    'price': 5.9,
+    'price': 5.5,
     'subscription_price': 1.1,
     'currency': 'EUR',
     'license': 'OPL-1',
