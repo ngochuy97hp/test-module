@@ -6,7 +6,7 @@
 
     'description': """
     """,
-    'author': "nhatnm0612",
+    'author': "huy",
     'website': "",
     'category': 'Odoo Apps',
     'version': '0.8',
