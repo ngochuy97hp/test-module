@@ -20,7 +20,7 @@
     'application': True,
     'auto_install': False,
     'price': 5.5,
-    'subscription_price': 1.1,
+    'subscription_price': 1.2,
     'currency': 'EUR',
     'license': 'OPL-1',
 }
